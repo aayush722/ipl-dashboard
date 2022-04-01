@@ -12,7 +12,6 @@ import java.time.LocalDate;
 import java.util.List;
 
 @RestController
-@CrossOrigin
 public class TeamController {
 
     private TeamRepository teamRepository;
