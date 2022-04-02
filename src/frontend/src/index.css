@@ -8,6 +8,7 @@
 
 a {
   text-decoration: none;
+  color: lightgrey;
 }
 
 body {
@@ -18,8 +19,4 @@ body {
   color: white;
   max-width: 1100px;
   margin: 0 auto;
-}
-
-a {
-  color: lightgrey;
 }
