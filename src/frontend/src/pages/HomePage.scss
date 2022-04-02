@@ -1,0 +1,17 @@
+.HomePage {
+
+    .app-name {        
+        background-color: red;
+        margin: 10px auto;
+        padding: 10px;
+        text-align: center;
+
+    }
+
+    .team-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+    }
+}
